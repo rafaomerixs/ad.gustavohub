@@ -1,0 +1,54 @@
+main{
+  width: 100%;
+  min-height: 100vh;
+  background: linear-gradient(180deg, #d00000, #000);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+}
+
+.Titulo{
+  color: #fff;
+  margin-top: 10px;
+}
+
+#icon{
+  width: 80px;
+  height: 80px;
+  background: #fff;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+}
+
+input{
+  width: 90%;
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+}
+
+#status{
+  width: 90%;
+  background: #ffffff88;
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+#pontos{
+  color: #fff;
+  margin-top: 10px;
+}
+
+button{
+  width: 90%;
+  margin-top: 10px;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+}
